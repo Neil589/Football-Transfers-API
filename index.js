@@ -16,12 +16,22 @@ const sites = [{
 },
 {
     name:'sky sports',
-    address:'https://www.skysports.com/transfer-centre'
+    address:'https://www.skysports.com'
     ,base:"https://www.skysports.com"
 },
 {
-    name:'transfermarkt',
-    address:'https://www.transfermarkt.us',
+    name:'footballtransfers',
+    address:'https://www.footballtransfers.com/en',
+    base:""
+},
+{
+    name:'espn',
+    address:'https://www.espn.com/soccer/transfers',
+    base:""
+},
+{
+    name:'mirror',
+    address:'https://www.mirror.co.uk/sport/football/transfer-news/',
     base:""
 }
 ] 
